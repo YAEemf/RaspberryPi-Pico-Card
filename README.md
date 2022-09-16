@@ -1,4 +1,4 @@
-# RaspberryPi-Pico-Card
+# RaspberryPi-Pico-Card [ラズパイ名刺]
 RP2040搭載の汎用名刺です。ラズベリーパイPicoとピン互換性があります。
 
 KiCad6のプロジェクトテンプレートを載せておいたので参考にどうぞ

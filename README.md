@@ -5,6 +5,8 @@ KiCad6のプロジェクトテンプレートを載せておいたので参考�
 
 回路ミスなど問題報告は次のTwitterアカ(@tokyotoniosumai)まで
 
+[誤植]2022/10/18  裏面の部品リストでIC1とIC2が同一になっている誤植がありました。正しくはIC1はW25Q16JVUXIQです。v1を受け取った方、すみません、
+
 ![RaspberryPi-Pico-Card-Gerber.png](./RaspberryPi-Pico-Card-Gerber.png)
 ![RaspberryPi-Pico-Card-F.png](./RaspberryPi-Pico-Card-F.png)
 ![RaspberryPi-Pico-Card-B.png](./RaspberryPi-Pico-Card-B.png)
